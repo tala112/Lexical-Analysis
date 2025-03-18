@@ -1,0 +1,7 @@
+## this is an example##
+
+Decl
+Int Sum=-50.45;
+String N1=@abc@;
+Enddecl
+
