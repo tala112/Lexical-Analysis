@@ -1,3 +1,4 @@
+Identifier, lexeme=SuS8 row=1, col=1
 Decl row=2, col=1
 Int row=3, col=1
 Identifier, lexeme=Sum row=3, col=5

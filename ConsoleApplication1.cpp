@@ -33,7 +33,7 @@ bool isCapital(char ch) {
 bool isDigit(char ch) {
     return (ch >= '0' && ch <= '9');
 }
-
+//HI
 
 bool isIdentifier(const string& word) {
     if (word.empty() || !(isCapital(word[0])) ) return false;
